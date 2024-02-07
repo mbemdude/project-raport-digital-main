@@ -1,0 +1,58 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black;
+  text-align: center;
+}
+
+header {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+}
+
+img {
+  display: flex;
+  max-width: 200px;
+  height: 100px;
+}
+
+header p {
+  margin: 1px 0;
+}
+
+hr {
+  border: 1.5px solid black !important;
+  opacity: 100 !important;
+}
+
+.table-rapor {
+  border: 1px solid #000;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2px 5px;
+}
+
+.header-bio {
+  font-size: 12px;
+}
+
+.header-isi {
+  font-size: 12px!important;
+}
+
+.hr-container {
+  display: flex;
+  justify-content: center;
+}
+
+.hr-short {
+  width: 50%;
+  background-color: black;
+  margin: auto;
+}
